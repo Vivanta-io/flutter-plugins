@@ -1,3 +1,7 @@
+## 8.1.0-2
+
+- Fix issue with Google Health Connect and Android 14 with Sleep Stages
+
 ## 8.1.0-1
 
 - Fix issue with Google Health Connect and Android 14

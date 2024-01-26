@@ -1,6 +1,6 @@
 name: vivanta_health
 description: Wrapper for HealthKit on iOS and Google Fit and Health Connect on Android. Based on Cachet.dk Health Plugin
-version: 8.1.0-1
+version: 8.1.0-2
 homepage: https://docs.vivanta.io
 
 environment:
